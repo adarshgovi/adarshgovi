@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
-I
 [![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshgovi)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm Adarsh, a third year Engineering Physics student at UBC with a passion for software and firmware development. I'm currently looking for an internship for Summer and Winter 2023!
