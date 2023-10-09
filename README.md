@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Adarsh, a third year Engineering Physics student at UBC with a passion for software and firmware development. I'm currently looking for Fall 2023 Internships!
+I'm Adarsh, a fourth-year Engineering Physics student currently working with the [UBC Systopia Lab](https://systopia.cs.ubc.ca/) on Real-Time Systems research and with the [Pacific Laboratory for Artificial Intelligence](https://plai.cs.ubc.ca/) on applying diffusion models to human motion and interactions. I'm currently looking for Summer 2024 Internships!
