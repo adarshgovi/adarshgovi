@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm Adarsh, a final-year Engineering Physics student at UBC, graduating in May 2025. I am currently looking for full time roles!
+I'm Adarsh, I am currently in my final year, majoring in Engineering Physics at UBC. I am currently looking roles that start May 2025 onwards!
