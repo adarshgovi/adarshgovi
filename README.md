@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm Adarsh, I am currently in my final year, majoring in Engineering Physics at UBC. I am currently looking roles that start May 2025 onwards!
+I'm Adarsh, an Engineering Physics major at UBC. I am currently looking for roles that start May 2025 onwards!
